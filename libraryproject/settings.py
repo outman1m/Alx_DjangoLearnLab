@@ -125,3 +125,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 INSTALLED_APPS += [
     'relationship_app',
 ]
+INSTALLED_APPS += ['relationship_app']
